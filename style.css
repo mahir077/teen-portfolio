@@ -1,0 +1,57 @@
+h1{color: white;
+    font-size: 80px;
+
+}
+.pot{ font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: bisque;
+    color:black;
+    width:60%;
+    padding-left: 2%;
+    padding-right: 5%;
+    margin-left: 7%;
+    margin-right: 5%;
+    box-shadow: 10px 20px 50px gray;
+    border-radius: 20px;
+
+}
+#paap{border-left: 10px  solid;
+    border-right: 10px solid;
+    border-bottom: 10px solid;
+    border-top: 10px solid;
+    border-image:linear-gradient(rgb(68, 120, 218), cyan);
+    border-image-slice: 2;
+
+}
+h2{color: white;
+    font-size: 60px;
+
+}
+.area{
+      width: 70%;
+      margin: 50px auto;
+      padding: 10%;
+
+}
+body{ 
+     background-image: url(images/2722058.jpg);
+     background-size: cover;
+     background-attachment: fixed;
+
+}
+.top-banner{ background-image: url(images/L\ baby.png);
+             background-position:top;
+             background-repeat: no-repeat;
+
+}
+.poo{font-size: 30px;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: bisque;
+    padding: 5px 10px 12px;
+    font-weight: 800;
+    
+
+
+}
+    
